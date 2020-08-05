@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2ffe92-bd3a-4145-a97b-145151b0620b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="django03" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="django03" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="django03" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="django03: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/M</dir>
+    </dirStrings>
+  </component>
+  <component name="JupyterTrust" id="35dc230a-2d4d-4327-81ba-a7fa0d90de68" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="287" />
+    <option name="y" value="70" />
+    <option name="width" value="1455" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectId" id="1fdYD8LXkshUWwqahwtomDuggzN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Session" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Django_exercise" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django_model.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.env/django/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2ffe92-bd3a-4145-a97b-145151b0620b" name="Default Changelist" comment="" />
+      <created>1595815537243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595815537243</updated>
+      <workItem from="1595815540406" duration="4396000" />
+      <workItem from="1595924447220" duration="7092000" />
+      <workItem from="1595944675983" duration="69000" />
+      <workItem from="1595985283465" duration="4395000" />
+      <workItem from="1596013751869" duration="1388000" />
+      <workItem from="1596021321208" duration="1474000" />
+      <workItem from="1596071515780" duration="620000" />
+      <workItem from="1596097204346" duration="4863000" />
+      <workItem from="1596114148620" duration="2335000" />
+      <workItem from="1596116831229" duration="73000" />
+      <workItem from="1596163061162" duration="2044000" />
+      <workItem from="1596176011667" duration="4712000" />
+      <workItem from="1596185428115" duration="76000" />
+      <workItem from="1596200022193" duration="2437000" />
+      <workItem from="1596244794594" duration="19000" />
+      <workItem from="1596244924596" duration="4985000" />
+      <workItem from="1596263626692" duration="8801000" />
+      <workItem from="1596328834002" duration="8471000" />
+      <workItem from="1596460466495" duration="1064000" />
+      <workItem from="1596505175178" duration="14638000" />
+      <workItem from="1596545935164" duration="272000" />
+      <workItem from="1596549328604" duration="104000" />
+      <workItem from="1596549509926" duration="15000" />
+      <workItem from="1596549561079" duration="292000" />
+      <workItem from="1596549901438" duration="520000" />
+      <workItem from="1596550458695" duration="15000" />
+      <workItem from="1596550517690" duration="428000" />
+      <workItem from="1596550971975" duration="264000" />
+      <workItem from="1596551256906" duration="37000" />
+      <workItem from="1596551310201" duration="5000" />
+      <workItem from="1596551339597" duration="129000" />
+      <workItem from="1596551499006" duration="5000" />
+      <workItem from="1596586867744" duration="61000" />
+      <workItem from="1596587051781" duration="793000" />
+      <workItem from="1596587937078" duration="70000" />
+      <workItem from="1596588044748" duration="10066000" />
+      <workItem from="1596634016317" duration="409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1779" height="412" key="GridCell.Tab.0.bottom" timestamp="1596587868649">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1779" height="412" key="GridCell.Tab.0.bottom/69.34.1851.1046@69.34.1851.1046" timestamp="1596587868649" />
+    <state width="1779" height="412" key="GridCell.Tab.0.center" timestamp="1596587868637">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1779" height="412" key="GridCell.Tab.0.center/69.34.1851.1046@69.34.1851.1046" timestamp="1596587868637" />
+    <state width="1779" height="412" key="GridCell.Tab.0.left" timestamp="1596587868636">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1779" height="412" key="GridCell.Tab.0.left/69.34.1851.1046@69.34.1851.1046" timestamp="1596587868636" />
+    <state width="1779" height="412" key="GridCell.Tab.0.right" timestamp="1596587868645">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state width="1779" height="412" key="GridCell.Tab.0.right/69.34.1851.1046@69.34.1851.1046" timestamp="1596587868645" />
+    <state x="226" y="34" width="1527" height="1046" key="SettingsEditor" timestamp="1596587481192">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state x="226" y="34" width="1527" height="1046" key="SettingsEditor/69.34.1851.1046@69.34.1851.1046" timestamp="1596587481192" />
+  </component>
+</project>

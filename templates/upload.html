@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="{% url 'Final:upload' %}" method="post" enctype="multipart/form-data"{# 以二进制传输文件 #}>
+        <input type="file" name="icon">
+        <button>提交</button>
+    </form>
+</body>
+</html>
