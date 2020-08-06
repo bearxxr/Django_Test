@@ -36,4 +36,5 @@ urlpatterns = [
     url(r'^Final/', include(('Final.urls', 'Final'))),
     url(r'^Cache/', include(('Cache.urls', 'Cache'))),
     url(r'^Middle/', include(('MiddleWare.urls', 'Middle'))),
+    url(r'^Page/', include(('Page.urls', 'Page'))),
 ]

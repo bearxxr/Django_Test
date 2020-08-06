@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul>
+        {% for goods in p.object_list %}
+             <li>{{ goods.id }}::{{ goods.name }}::{{ goods.price }}</li>
+        {% endfor %}
+        {% if p.has_previous %}
+                <a href="{% url 'Page:Djangopage' %}?page={{ p.previous_page_number }}">上一页</a>
+            {% else %}
+                <a href="#">上一页</a>
+        {% endif %}
+
+        {% for foo in pagin.page_range %}
+            {% if foo == page %}
+                <a style="color: green" href="{% url 'Page:Djangopage' %}?page={{ foo }}">{{ foo }}</a>
+            {% else %}
+                <a href="{% url 'Page:Djangopage' %}?page={{ foo }}">{{ foo }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if p.has_next %}
+                <a href="{% url 'Page:Djangopage' %}?page={{ p.next_page_number }}">下一页</a>
+            {% else %}
+                <a href="#">下一页</a>
+        {% endif %}
+    </ul>
+</body>
+</html>

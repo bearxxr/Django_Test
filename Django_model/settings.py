@@ -48,7 +48,8 @@ INSTALLED_APPS = [
     'ManyToMany',
     'Final',
     'Cache',
-    'MiddleWare'
+    'MiddleWare',
+    'Page'
 ]
 
 MIDDLEWARE = [
@@ -60,7 +61,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'MiddleWare.middleware.ConnctionMiddle',
-    'MiddleWare.middleware.ExceptionAop'
+    # 'MiddleWare.middleware.ExceptionAop'
 ]
 
 ROOT_URLCONF = 'Django_model.urls'

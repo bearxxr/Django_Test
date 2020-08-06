@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1596634016317" duration="1165000" />
       <workItem from="1596635881051" duration="106000" />
       <workItem from="1596676993679" duration="3920000" />
-      <workItem from="1596699106311" duration="2518000" />
+      <workItem from="1596699106311" duration="8127000" />
     </task>
     <servers />
   </component>
@@ -157,25 +157,33 @@
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
     <state x="671" y="200" width="636" height="714" key="FileChooserDialogImpl/69.34.1851.1046@69.34.1851.1046" timestamp="1596635394270" />
-    <state width="1779" height="350" key="GridCell.Tab.0.bottom" timestamp="1596700801125">
+    <state width="1779" height="317" key="GridCell.Tab.0.bottom" timestamp="1596718220862">
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
-    <state width="1779" height="350" key="GridCell.Tab.0.bottom/69.34.1851.1046@69.34.1851.1046" timestamp="1596700801125" />
-    <state width="1779" height="350" key="GridCell.Tab.0.center" timestamp="1596700801122">
+    <state width="1779" height="317" key="GridCell.Tab.0.bottom/69.34.1851.1046@69.34.1851.1046" timestamp="1596718220862" />
+    <state width="1779" height="317" key="GridCell.Tab.0.center" timestamp="1596718220835">
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
-    <state width="1779" height="350" key="GridCell.Tab.0.center/69.34.1851.1046@69.34.1851.1046" timestamp="1596700801122" />
-    <state width="1779" height="350" key="GridCell.Tab.0.left" timestamp="1596700801121">
+    <state width="1779" height="317" key="GridCell.Tab.0.center/69.34.1851.1046@69.34.1851.1046" timestamp="1596718220835" />
+    <state width="1779" height="317" key="GridCell.Tab.0.left" timestamp="1596718220834">
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
-    <state width="1779" height="350" key="GridCell.Tab.0.left/69.34.1851.1046@69.34.1851.1046" timestamp="1596700801121" />
-    <state width="1779" height="350" key="GridCell.Tab.0.right" timestamp="1596700801123">
+    <state width="1779" height="317" key="GridCell.Tab.0.left/69.34.1851.1046@69.34.1851.1046" timestamp="1596718220834" />
+    <state width="1779" height="317" key="GridCell.Tab.0.right" timestamp="1596718220847">
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
-    <state width="1779" height="350" key="GridCell.Tab.0.right/69.34.1851.1046@69.34.1851.1046" timestamp="1596700801123" />
+    <state width="1779" height="317" key="GridCell.Tab.0.right/69.34.1851.1046@69.34.1851.1046" timestamp="1596718220847" />
     <state x="226" y="34" width="1527" height="1046" key="SettingsEditor" timestamp="1596587481192">
       <screen x="69" y="34" width="1851" height="1046" />
     </state>
     <state x="226" y="34" width="1527" height="1046" key="SettingsEditor/69.34.1851.1046@69.34.1851.1046" timestamp="1596587481192" />
+    <state x="814" y="402" width="535" height="359" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1596704511049">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state x="814" y="402" width="535" height="359" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/69.34.1851.1046@69.34.1851.1046" timestamp="1596704511049" />
+    <state x="488" y="32" width="1009" height="1470" key="search.everywhere.popup" timestamp="1596704821183">
+      <screen x="69" y="34" width="1851" height="1046" />
+    </state>
+    <state x="488" y="32" width="1009" height="1470" key="search.everywhere.popup/69.34.1851.1046@69.34.1851.1046" timestamp="1596704821183" />
   </component>
 </project>
