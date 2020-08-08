@@ -1,0 +1,10 @@
+Django==2.2.14
+django-redis==4.12.1
+django-redis-cache==2.1.1
+djangorestframework==3.11.1
+mysqlclient==2.0.1
+Pillow==7.2.0
+pytz==2020.1
+redis==3.5.3
+six==1.15.0
+sqlparse==0.3.1

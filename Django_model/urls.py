@@ -16,6 +16,15 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.urls import path, include
+from rest_framework import routers
+
+from DRF import views
+
+# 基础djangorestreframework
+router = routers.DefaultRouter()
+router.register(r'users', views.UserViewSet)
+router.register(r'groups', views.GroupViewSet)
+router.register(r'books', views.BookViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -38,4 +47,8 @@ urlpatterns = [
     url(r'^Middle/', include(('MiddleWare.urls', 'Middle'))),
     url(r'^Page/', include(('Page.urls', 'Page'))),
     url(r'^CBV/', include(('CBV.urls', 'CBV'))),
+
+    url(r'^DRF/', include(router.urls)),
+    url(r'^Cdrf/', include(('CBVDRF.urls', 'CBVDRF'))),
+
 ]

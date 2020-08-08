@@ -50,7 +50,10 @@ INSTALLED_APPS = [
     'Cache',
     'MiddleWare',
     'Page',
-    'CBV'
+    'CBV',
+    'rest_framework',
+    'DRF',
+    'CBVDRF'
 ]
 
 MIDDLEWARE = [
