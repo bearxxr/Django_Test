@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    你好哇
+
+    <br>
+    {% for animal in animal_list %}
+        {{ animal.id }}||{{ animal.name }}
+    {% endfor %}
+
+    <br>
+    {% for object in object_list %}
+        {{ object.name }}
+    {% endfor %}
+
+</body>
+</html>

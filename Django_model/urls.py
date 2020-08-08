@@ -37,4 +37,5 @@ urlpatterns = [
     url(r'^Cache/', include(('Cache.urls', 'Cache'))),
     url(r'^Middle/', include(('MiddleWare.urls', 'Middle'))),
     url(r'^Page/', include(('Page.urls', 'Page'))),
+    url(r'^CBV/', include(('CBV.urls', 'CBV'))),
 ]

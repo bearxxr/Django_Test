@@ -49,7 +49,8 @@ INSTALLED_APPS = [
     'Final',
     'Cache',
     'MiddleWare',
-    'Page'
+    'Page',
+    'CBV'
 ]
 
 MIDDLEWARE = [
